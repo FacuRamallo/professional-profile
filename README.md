@@ -8,38 +8,42 @@
 
 ### Professional Summary
 
-A results-driven Backend Developer with over 3 years of experience specializing in building and scaling resilient microservices for high-traffic environments. Proficient in Kotlin, Java, and the Spring Boot ecosystem, with deep expertise in applying Hexagonal Architecture, DDD, and TDD principles to create clean, maintainable code. I thrive in environments where I can collaborate within multidisciplinary teams, adapting to diverse work dynamics to solve complex problems. My objective is to add value by fostering growth and achieving impactful results, guided by my core values of honesty, respect, commitment, and positive attitude.
+Results-driven Backend Engineer with 3+ years of experience specializing in resilient microservices for high-traffic environments. Proficient in Kotlin, Java, and Spring Boot, with a focus on Hexagonal Architecture, DDD, TDD and AI-assisted development. Strong foundation in lower-level backend fundamentals (Protocols, Async I/O) and proven track record of migrating legacy systems and implementing complex business logic in distributed architectures.
+   Transitioned from a background in Civil Engineering, bringing a rigorous, structural approach to software reliability and system design. My objective is to add value by fostering growth and achieving impactful results, guided by my core values: honesty, respect, commitment, and positive attitude.
 
 ---
 
 ### Work Experience
 
 **Backend Engineer** | **Adevinta** | May 2022 - Present
-
-* Engineered and maintained backend APIs for a distributed, event-driven microservices architecture, applying best practices in Test-Driven Development (TDD) and Domain-Driven Design (DDD).
-* Utilized Kafka for asynchronous messaging and PostgreSQL as the primary database solution for data persistence.
-* Deployments automated by CI/CD pipelines without PRE or DEV enviroments (push directly to production).
-* Implemented comprehensive monitoring and logging for services using Datadog and Kibana to ensure system health and performance.
-* Actively contributed within an Agile (Scrum) team, utilizing pair and mob programming to enhance code quality and knowledge sharing.
-* Tech Stack: Spring Boot, Java, Kotlin, AWS, Kafka, PostgreSQL, GitHub Actions, Kubernetes, Datadog, Kibana.
+* **Legacy Migration & Architecture:** Engineered an Anti-Corruption Layer (ACL) to bridge legacy real-estate models with a new microservices ecosystem, handling 25 req/s via REST and XML processing with zero downtime.
+* **Performance Engineering:** Optimized system throughput by fine-tuning HikariCP and database connection pools. Leveraged Kotlin Coroutines for asynchronous image/video processing, significantly reducing I/O latency.
+* **Strategic Domain Design:** Contributed to the technical analysis for a multi-tenant "Franchise" model, designing a Publisher Wrapper solution that synchronized state across Statistics, Billing, and Notification bounded contexts.
+* **Modern DevOps & AI:** Maintained a Direct-to-Production workflow (no Staging/Dev) through a robust Test Pyramid and Feature Flags. Integrated AI-powered testing and prompt engineering to accelerate the development lifecycle.
+* **Product Growth:** Architected a new marketing product within a distributed ecosystem, ensuring strict data consistency for customer balances under tight deadlines.
 
 ---
 
 ### Technical Skills
 
-* **Languages:** Kotlin, Java, SQL
-* **Frameworks & Libraries:** Spring Boot, Spring Data, Spring Security
-* **Architecture & Design:** Hexagonal Architecture, Microservices, Domain-Driven Design (DDD), REST APIs, Test-Driven Development (TDD), SOLID
-* **Databases:** PostgreSQL, MySQL, MongoDB
-* **DevOps & Cloud:** AWS (EC2, EKS, ECR, S3, SQS), Docker, Kubernetes, Kafka, GitHub Actions
-* **Methodologies:** Agile, Scrum, Pair Programming, Mob Programming
+* **Backend & Systems:** Kotlin (Coroutines), Java, SQL, OS Fundamentals (Threads, Processes, Async I/O), Protocols (HTTP/3, gRPC, WebSockets, TLS 1.3).
+* **Architecture:** Hexagonal, Microservices, DDD, SOLID, Design Patterns.
+* **AI for Engineering:** AI Coding Assistants, Prompt Engineering for Devs, AI-powered QA.
+* **Infrastructure:** AWS (EKS, S3, SQS), Docker, Kubernetes, Kafka, GitHub Actions.
 
 ---
 
-### Education
+### CERTIFICATIONS & EDUCATION
 
-* **Full-Stack Web Development Bootcamp** (850 hours) | Factoria F5 | Barcelona, Spain | 2022
-* **Degree in Civil Engineering** | Córdoba National University | Córdoba, Argentina
+* **AI4Devs Program (80h Specialization)** | LIDR Academy | May-Oct 2025
+  * Focus: AI-powered developer over an End-to-end AI project(Backend/Frontend/DevOps/QA, Prompt Engineering).
+  * Understanding of Agents arquitecture
+* **Fundamentals of Backend Engineering** | Udemy | 2024
+  * Deep dive into OS Kernel communication, communication design patterns, and QUIC/0RTT.
+* **Design Patterns in Java (GoF)** | Udemy | 2024
+  * Mastery of Creational, Structural, and Behavioral patterns with modern Java implementation.
+* **Full-Stack Web Development Bootcamp** | Factoria F5 | Barcelona | 2022
+* **Degree in Civil Engineering** | Córdoba National University | Argentina
 
 ---
 
